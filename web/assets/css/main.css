@@ -1,0 +1,113 @@
+.treeview a{
+    font-size:17px;
+}
+
+.box-header{
+    background-color: #3C8DBC;
+    color: #fff;
+}
+
+#startdate{
+    height:26px;
+    width:100px;
+}
+
+#enddate{
+    height:26px;
+    width:100px;
+}
+
+.form-group{
+  margin-left: 20px;
+}
+
+#show{
+    width: 100%;
+    height:400px;
+    margin-top: 10px;
+    background-color: #0f375f;
+}
+
+#log_table{
+    width: 79.3%;
+    max-height:462px;
+    top: 18%;
+    position: fixed;
+    background-color:#fff;
+    border:1px #3C8DBC solid;
+}
+
+.log_top{
+   width: 100%;
+    height:40px;
+    background-color:#a4c7f7;
+}
+
+#log_type{
+    font-size:1.4em;
+    width: 96%;
+    float:left;
+    line-height:40px;
+}
+
+.log_close{
+    width: 3%;
+    float:left;
+}
+
+.log_close i{
+    font-size: 1.85em;
+    color:#637074;
+    line-height:40px;
+    cursor:pointer;
+}
+
+#show_table{
+    width: 100%;
+    max-height:402px;
+    margin-top:10px;
+}
+
+#log1{
+    background-color:#f39c12;
+}
+
+#addRule{
+    width:40%;
+    height:79%;
+    position: fixed;
+    top:14%;
+    left:38%;
+}
+
+#add{
+    z-index:10;
+    border:1px #3C8DBC solid;
+    border-radius: 5px;
+    width:415px;
+    height:350px;
+    background-color:#F9F9F9;
+    margin-left:15%;
+    margin-top:5%;
+}
+
+#add_title{
+    background-color:#3C8DBC;
+    height:35px;
+    font-size: 1.25em;
+    color:#fff;
+    border-radius: 5px;
+}
+
+#add_title label{
+   width:87%;
+    line-height:35px;
+    margin-left:12px;
+}
+
+#add_title i{
+    font-size: 1.35em;
+    color:#F9F9F9;
+    line-height:35px;
+    cursor:pointer;
+}
